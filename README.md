@@ -1,3 +1,9 @@
+> [!CAUTION]
+> **The GCP environments are being decommissioned and scheduled to be destroyed.**
+> **Therefore, this Terraform configuration is not in use anymore.**
+>
+> **The repository is archived for historical records.**
+
 # GCP Terraform SQL Database module
 
 Custom Terraform module to create GCP Cloud SQL instances and databases
